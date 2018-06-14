@@ -78,13 +78,157 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\site-icons.svg" />
     <Content Include="Global.asax" />
+    <Content Include="images\404-img.png" />
+    <Content Include="images\arrow-down.png" />
+    <Content Include="images\arrow-right.png" />
+    <Content Include="images\arrow-up1.png" />
+    <Content Include="images\arrows_sprite.png" />
+    <Content Include="images\arrow_about.png" />
+    <Content Include="images\avatar60x60.jpg" />
+    <Content Include="images\background\category-banner.jpg" />
+    <Content Include="images\background\hinhnen1.jpg" />
+    <Content Include="images\background\hinhnen2.jpg" />
+    <Content Include="images\bestseller-banner.png" />
+    <Content Include="images\bg_shadow_about.png" />
+    <Content Include="images\bkg_rating.png" />
+    <Content Include="images\blog-banner.png" />
+    <Content Include="images\blog-img.jpg" />
+    <Content Include="images\brand-logo.jpg" />
+    <Content Include="images\btn_remove.png" />
+    <Content Include="images\bullet_1.png" />
+    <Content Include="images\category-bg.png" />
+    <Content Include="images\close-icon.png" />
+    <Content Include="images\close_icon.png" />
+    <Content Include="images\common.png" />
+    <Content Include="images\cross-icon.png" />
+    <Content Include="images\cross-img.png" />
+    <Content Include="images\custom-block.png" />
+    <Content Include="images\cust_left.png" />
+    <Content Include="images\cust_right.png" />
+    <Content Include="images\english.png" />
+    <Content Include="images\fancybox.png" />
+    <Content Include="images\francais.png" />
+    <Content Include="images\german.png" />
+    <Content Include="images\gray-banner.png" />
+    <Content Include="images\grey.gif" />
+    <Content Include="images\handle.png" />
+    <Content Include="images\hot-trends-banner.png" />
+    <Content Include="images\icon_arrow_down.png" />
+    <Content Include="images\icon_arrow_next.png" />
+    <Content Include="images\icon_arrow_next_over.png" />
+    <Content Include="images\icon_arrow_prev.png" />
+    <Content Include="images\icon_arrow_prev_over.png" />
+    <Content Include="images\icon_arrow_up.png" />
+    <Content Include="images\icon_asc.png" />
+    <Content Include="images\icon_asc_over.png" />
+    <Content Include="images\icon_breadcrumbs.png" />
+    <Content Include="images\icon_dsc.png" />
+    <Content Include="images\icon_dsc_over.png" />
+    <Content Include="images\icon_grid.png" />
+    <Content Include="images\icon_grid_act.gif" />
+    <Content Include="images\icon_grid_act.png" />
+    <Content Include="images\icon_grid_over.png" />
+    <Content Include="images\icon_list.png" />
+    <Content Include="images\icon_list_act.gif" />
+    <Content Include="images\icon_list_act.png" />
+    <Content Include="images\icon_list_over.png" />
+    <Content Include="images\left-a.png" />
+    <Content Include="images\leftNav.png" />
+    <Content Include="images\li_dot.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\menu-bag.png" />
+    <Content Include="images\menu-img.png" />
+    <Content Include="images\minus-blue.png" />
+    <Content Include="images\minus-img.png" />
+    <Content Include="images\minus.png" />
+    <Content Include="images\newsletter_img.png" />
+    <Content Include="images\opc-ajax-loader.gif" />
+    <Content Include="images\orange.gif" />
+    <Content Include="images\payment-1.png" />
+    <Content Include="images\payment-2.png" />
+    <Content Include="images\payment-3.png" />
+    <Content Include="images\payment-4.png" />
+    <Content Include="images\plus-blue.png" />
+    <Content Include="images\plus-img.png" />
+    <Content Include="images\plus.png" />
+    <Content Include="images\product-img.jpg" />
+    <Content Include="images\quick-view.png" />
+    <Content Include="images\right-a.png" />
+    <Content Include="images\search-icon-big.png" />
+    <Content Include="images\search-icon.png" />
+    <Content Include="images\search-icon1.png" />
+    <Content Include="images\select-arrow.png" />
+    <Content Include="images\slide-left-arrow.png" />
+    <Content Include="images\slide-right-arrow.png" />
+    <Content Include="images\slide1.jpg" />
+    <Content Include="images\slide2.jpg" />
+    <Content Include="images\slide3.jpg" />
+    <Content Include="images\slider-arrow.png" />
+    <Content Include="images\slider-image.png" />
+    <Content Include="images\slideshow-arrows.png" />
+    <Content Include="images\spanish.png" />
+    <Content Include="images\sprite.png" />
+    <Content Include="images\tab-pager-ring-lgray.png" />
+    <Content Include="images\testimonial-photo.png" />
+    <Content Include="images\test_arrow.png" />
+    <Content Include="images\to-top-arrow.png" />
+    <Content Include="images\tooltip.png" />
+    <Content Include="images\tool_arrow_down.png" />
+    <Content Include="images\tool_arrow_down_o.png" />
+    <Content Include="images\tool_arrow_up.png" />
+    <Content Include="images\top-arrow.png" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\cloud-zoom.js" />
+    <Content Include="js\common.js" />
+    <Content Include="js\jquery.bxslider.min.js" />
+    <Content Include="js\jquery.flexslider.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.mobile-menu.min.js" />
+    <Content Include="js\owl.carousel.min.js" />
+    <Content Include="js\parallax.js" />
+    <Content Include="js\revslider.js" />
+    <Content Include="js\slider.js" />
     <Content Include="Scripts\Common\angular-1.6.5.min.js" />
     <Content Include="Scripts\Common\jquery-1.12.0.min.js" />
+    <Content Include="fonts\clhLqOv7MXn459PTh0gXYHW1xglZCgocDnD_teV2lMU.woff" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\site-icons.eot" />
+    <Content Include="fonts\site-icons.ttf" />
+    <Content Include="fonts\site-icons.woff" />
+    <Content Include="images\Thumbs.db" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="stylesheet\bootstrap.min.css" />
+    <Content Include="stylesheet\flexslider.css" />
+    <Content Include="stylesheet\font-awesome.css" />
+    <Content Include="stylesheet\jquery.bxslider.css" />
+    <Content Include="stylesheet\jquery.mobile-menu.css" />
+    <Content Include="stylesheet\owl.carousel.css" />
+    <Content Include="stylesheet\owl.theme.css" />
+    <Content Include="stylesheet\responsive.css" />
+    <Content Include="stylesheet\revslider.css" />
+    <Content Include="stylesheet\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -93,6 +237,10 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -102,7 +250,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>

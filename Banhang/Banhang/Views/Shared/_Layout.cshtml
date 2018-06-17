@@ -552,7 +552,7 @@
                         @*<li><a href="wishlist.html" title="Wishlist">Wishlist</a></li>
                         <li><a href="checkout.html" title="Checkout">Checkout</a></li>
                         <li><a href="blog.html" title="Blog"><span>Blog</span></a></li>*@
-                        <li class="last"><a href="login.html" title="Login"><span>Login</span></a></li>
+                        <li class="last"><a href="login.html" title="Login" data-toggle="modal" data-target="#myModal"><span>Login</span></a></li>
                     </ul>
                 </div>
             </div>
@@ -960,7 +960,26 @@
             <li><a href="contact-us.html">Contact Us</a></li>
         </ul>
     </div>
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
 
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Modal Header</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Some text in the modal.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
 
     <!-- JavaScript -->
     <script type="text/javascript" src="/js/jquery.min.js"></script>

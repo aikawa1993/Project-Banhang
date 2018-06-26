@@ -1187,10 +1187,13 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Product\ProductDetail.cshtml" />
     <Content Include="Views\Customer\AboutPage.cshtml" />
-    <Content Include="Views\Home\Barcode.cshtml" />
-    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\ManagerAccount.cshtml" />
     <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
     <Content Include="Views\Admin\Login.cshtml" />
+    <Content Include="Views\Admin\ManagerCustomer.cshtml" />
+    <Content Include="Views\Admin\ManagerOrder.cshtml" />
+    <Content Include="Views\Admin\ManagerProduct.cshtml" />
+    <Content Include="Views\Admin\Error.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -11,9 +11,28 @@ namespace Banhang.Controllers
     {
         //
         // GET: /Admin/
-        public ActionResult Index()
+        public ActionResult ManagerAccount()
         {
             ViewBag.User = this.Session["User"];
+            return View();
+        }
+        public ActionResult ManagerCustomer()
+        {
+            ViewBag.User = this.Session["User"];
+            return View();
+        }
+        public ActionResult ManagerOrder()
+        {
+            ViewBag.User = this.Session["User"];
+            return View();
+        }
+        public ActionResult ManagerProduct()
+        {
+            ViewBag.User = this.Session["User"];
+            return View();
+        }
+        public ActionResult Error()
+        {
             return View();
         }
         [HttpGet]
@@ -52,7 +71,7 @@ namespace Banhang.Controllers
             if (username == "admin" && password == "123456")
             {
                 this.Session["User"] = username;
-                return RedirectToAction("Index", "Admin");
+                return RedirectToAction("ManagerAccount", "Admin");
             }
             return RedirectToAction("Error", "Admin");
         }
